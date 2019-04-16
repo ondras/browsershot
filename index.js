@@ -1,7 +1,9 @@
 const options = {
 	video: {
 		cursor: "never",
-		displaySurface: "browser"
+		displaySurface: "browser",
+		sharpness: 50,
+		resizeMode: 'none'
 	}
 }
 
